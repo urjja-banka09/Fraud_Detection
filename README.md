@@ -57,7 +57,7 @@ To reproduce the results and run the fraud detection pipeline, follow these step
   Download the notebook file (`Main.ipynb`) and place it in your working repository.  
 
 - **Dataset**:  
-  Download the CSV dataset (`card_transdata.csv`) and save it in the same repository as the notebook.  
+  Download the CSV dataset (`card_transdata.csv`) from the above link (can't upload the dataset to this repo because it exceeds the size) and save it in the same repository as the notebook.  
 
 ---
 
